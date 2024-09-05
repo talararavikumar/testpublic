@@ -1,0 +1,3 @@
+function New() {
+    return Hello;
+}
