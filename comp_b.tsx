@@ -1,4 +1,3 @@
-function b()
-{
-return setTi;
+function b() {
+    return setTimer;
 }
