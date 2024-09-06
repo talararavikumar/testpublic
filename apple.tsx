@@ -1,3 +1,3 @@
 function New() {
-    return Hello;
+    return "apple";
 }
