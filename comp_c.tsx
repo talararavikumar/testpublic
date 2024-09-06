@@ -1,3 +1,3 @@
 function d() {
-    return green
+    return "yellow";
 }
