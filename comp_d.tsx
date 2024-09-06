@@ -1,3 +1,3 @@
 function n() {
-    return Hello;
+    return "Hello";
 }
