@@ -1,3 +1,3 @@
 function b() {
-    return setTimer;
+    return settimer1;
 }
