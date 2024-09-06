@@ -1,3 +1,3 @@
 function d() {
-    return 'compc'
+    return 'compc';
 }
